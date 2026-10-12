@@ -112,7 +112,7 @@ I design and run full systems end to end — from the backend API down to the se
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ImranKhanEds/ImranKhanEds/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ImranKhanEds/ImranKhanEds/output/github-contribution-grid-snake.svg?v=2" alt="Contribution Snake"/>
 
 </div>
 
