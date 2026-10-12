@@ -83,7 +83,7 @@ I design and run full systems end to end — from the backend API down to the se
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ImranKhanEds&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=ImranKhanEds&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
