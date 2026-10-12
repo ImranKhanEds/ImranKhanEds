@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Mohammed%20Imran%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Grade%202)%20%40%20Embedded%20Design%20Services&descAlignY=58&descSize=18" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Imran%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" alt="header banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineering+%C2%B7+Production+Infra+%C2%B7+CI%2FCD;ASP.NET+Core+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;I+don't+just+ship+code+%E2%80%94+I+keep+it+running" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+applications+end+to+end;ASP.NET+%2F+Java+backend+%7C+TypeScript+%2F+JavaScript+frontend;I+don't+just+ship+code+%E2%80%94+I+keep+it+running" alt="Typing SVG" />
 
 <br/>
 
 📍 Faridabad, India &nbsp;·&nbsp; 🏢 Embedded Design Services
 
-<img src="https://komarev.com/ghpvc/?username=ImranKhanEds&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ImranKhanEds&label=Profile+Views&color=58A6FF&style=for-the-badge&base=1000" alt="Profile views" />
 
 </div>
 
@@ -16,13 +16,26 @@
 
 ## About Me
 
-I design and run full systems end to end — from the backend API down to the server it runs on. Most of my work sits at the intersection of **backend engineering** and **production infrastructure**: building ASP.NET Core services, then standing up the Windows/IIS environments, message pipelines, and CI/CD that actually keep them running in the real world.
+👋 Hi, I'm **Imran Khan** — a **Full-Stack Developer** who builds scalable applications end to end, from the database up through the API to the screen.
 
+I design and run full systems end to end — from the backend API down to the server it runs on. Most of my work sits at the intersection of **backend engineering** and **production infrastructure**: building ASP.NET / Java services on the backend, TypeScript / JavaScript on the front end, then standing up the Windows/IIS environments, message pipelines, and CI/CD that actually keep it all running in the real world.
+
+- 🚀 Full-stack by trade: **ASP.NET** and **Java** on the backend, **TypeScript** and **JavaScript** on the frontend
+- 🧩 Strong in **High-Level Design (HLD)** and **Low-Level Design (LLD)** — breaking down complex systems into clean, scalable component boundaries before writing a line of code
+- ☁️ Comfortable designing for the **cloud** — service decomposition, scaling strategy, and infra topology, not just the code that runs on it
+- 🧠 Enjoy **problem solving** — picking apart gnarly bugs, performance bottlenecks, and distributed-systems edge cases until they actually make sense
 - 🔧 Comfortable going from application code straight down to the OS/network layer when something breaks
-- 🚀 Build and maintain CI/CD pipelines (GitHub Actions, self-hosted runners) with versioned, rollback-safe deployments
+- ⚙️ Build and maintain CI/CD pipelines (GitHub Actions, self-hosted runners) with versioned, rollback-safe deployments
 - 🗄️ Work daily with relational + caching + streaming data layers together (PostgreSQL, Redis, Kafka)
 - 🛰️ Set up production domains properly — real TLS certs, reverse proxying, IIS site architecture — not just `localhost`
 - 📡 Currently deep in distributed systems: message queues, service-to-service auth (SSO), and high-availability deployment design
+
+<p>
+  <img src="https://img.shields.io/badge/HLD-System%20Design-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLD-Component%20Design-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFB000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
 <br/>
 
@@ -88,8 +101,8 @@ I design and run full systems end to end — from the backend API down to the se
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImranKhanEds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranKhanEds&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165"/>
+  <img src="https://raw.githubusercontent.com/ImranKhanEds/ImranKhanEds/stats-output/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="https://raw.githubusercontent.com/ImranKhanEds/ImranKhanEds/stats-output/top-langs.svg" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -124,6 +137,12 @@ I design and run full systems end to end — from the backend API down to the se
 
 <a href="https://github.com/ImranKhanEds">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-imran-khan-41239a169/?isSelfProfile=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mikekhan724@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
