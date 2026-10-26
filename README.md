@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Imran%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" alt="header banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+applications+end+to+end;ASP.NET+%2F+Java+backend+%7C+TypeScript+%2F+JavaScript+frontend;I+don't+just+ship+code+%E2%80%94+I+keep+it+running" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+applications+end+to+end;.NET+%2F+Java+backend+%7C+TypeScript+%2F+JavaScript;I+don't+just+ship+code+%E2%80%94+I+keep+it+running" alt="Typing SVG" />
 
 <br/>
 
